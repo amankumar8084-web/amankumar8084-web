@@ -2,19 +2,19 @@
 
 <!-- Glassmorphism Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Aman%20Kumar&fontAlign=50&fontSize=40&textBg=true&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descSize=20&height=150&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Aman%20Kumar&fontAlign=50&fontSize=40&textBg=true&height=150&animation=fadeIn" />
 </p>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Kumar;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript+Lover;Always+Learning+New+Things!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Kumar;Java+%7C+Python+%7C+JavaScript+Lover;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **Excel Engineering College**  
-💻 Passionate **Full Stack Developer** 
+💻 Passionate **Full Stack Developer**  
 🔥 Love creating modern, scalable, and interactive web applications  
 📚 Always learning new technologies to stay ahead in the tech world  
 
@@ -23,21 +23,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-chaurasiya/" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-kumar-4a9876315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/adityakumi6f7/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/aditya7070_kumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/adityakumar583ak" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.hackerearth.com/@adityakumar583ak/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  </a>
+  <!-- Skipped GeeksforGeeks -->
+  <!-- Skipped LeetCode -->
+  <!-- Skipped HackerRank -->
+  <!-- Skipped HackerEarth -->
 </p>
 
 ---
@@ -79,8 +71,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityakumarchaurasiya&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityakumarchaurasiya&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumar8084-web&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar8084-web&theme=radical" height="165" />
 </p>
 
 ---
@@ -88,15 +80,13 @@
 ## 🐍 Contribution Snake Animation
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="github-snake" src="assets/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankumar8084-web/amankumar8084-web/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankumar8084-web/amankumar8084-web/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/amankumar8084-web/amankumar8084-web/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
-
-
 
 ## 🌊 Animated Wave Footer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
