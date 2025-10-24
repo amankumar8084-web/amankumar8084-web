@@ -8,12 +8,18 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # ✅ allows pushing to the output branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # ✅ prevents Git conflicts
 
       - name: Generate Snake
         uses: Platane/snk@v3
